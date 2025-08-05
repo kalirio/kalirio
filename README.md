@@ -1,14 +1,27 @@
-# Olá, sou Karla Liliam 👋
+### ✨ Olá, sou Karla Liliam! ✨
 
-Sou estudante com foco em Análise de Dados e interesse crescente em como transformar dados em informação. Tenho me dedicado a aprender SQL e planilhas para análise de dados, explorando desde a manipulação de dados até a criação de visualizações que ajudam a contar histórias com clareza.
+* Estudante de Sistemas para Internet no Instituto Federal de Mato Grosso - IFMT.
+* Interessada em Banco de Dados.
+* Estagiária na Amecor | NTI
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=google-sheets&logoColor=white)
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
+</div>
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalirio&layout=compact&langs_count=7&theme=cobalt" width="270" height="230" />
+</div>
+  
 ---
 
-### Conecte-se Comigo!
+### 📭 Contato 📭
+<div>
+  <a href = "mailto:kahalfon@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/karla-liliam" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=inspire&logoColor=white" target="_blank"></a>   
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karla-liliam/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kahalfon@gmail.com)
+</a>
+</a>
+</div>
+
 ---
